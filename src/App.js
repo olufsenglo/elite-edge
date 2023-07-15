@@ -24,6 +24,7 @@ const App = () => {
 		<Hero />
 		<About />
 		<Features />
+		<Testimonials />
 	</div>
   );
 };
